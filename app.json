@@ -1,0 +1,11 @@
+{
+  "name": "NFL Fantasy Backend",
+  "scripts": {},
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ],
+  "root": "src"
+}
